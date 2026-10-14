@@ -4,7 +4,7 @@ Browser-side library and demo that gathers [ICE](https://developer.mozilla.org/e
 
 Private, link-local, and mDNS (`.local`) addresses are listed for inspection. They are **not** treated as a public IP leak.
 
-> **Live demo:** [https://www.kindproxy.com/webrtc-leak-test/](https://www.kindproxy.com/webrtc-leak-test/)
+> **Live demo:** [https://www.kindproxy.com/webrtc-leak-test/](https://www.kindproxy.com/webrtc-leak-test?spread=github)
 
 This repository is provider-independent. The live demo above is a hosted instance; you can self-host `index.html` or import the modules elsewhere.
 
